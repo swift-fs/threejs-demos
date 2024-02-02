@@ -1,3 +1,4 @@
+import './assets/reset.css'
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import * as THREE from 'three'
